@@ -4,7 +4,7 @@
 
 ## Фреймворк ADTK
 
-* [Метод PCA(ALL) - обучение алгоритма на всем наборе данных без разделения на группы](Anomaly Detection Toolkit (ADTK)\PCA_ALL)
+* [Метод PCA(ALL) - обучение алгоритма на всем наборе данных без разделения на группы](Anomaly Detection Toolkit (ADTK)/PCA_ALL/README.MD)
 
 ## Метод сети LSTM
 
