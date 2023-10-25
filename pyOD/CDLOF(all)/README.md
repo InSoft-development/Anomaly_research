@@ -18,5 +18,5 @@ Clustering-Based Local Outlier Factor (CBLOF) - это метод обнаруж
 Обучение алгоритма ALAD на данных Yugres с предварительной очисткой.  Реализация алгоритма представлена в [ноутбуке](CBLOF(all).ipynb) с пошаговой инструкцией и описанием деталей.
 ![Alt text](image.png)
 
-* [Найденые интервалы](intervals_ALAD.json)
-* [Выход сети в csv формате](pyOD_ALAD.csv)
+* [Найденые интервалы](intervals_CDLOF.json)
+* [Выход сети в csv формате](pyOD_CDLOF.csv)
